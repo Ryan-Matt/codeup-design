@@ -1,12 +1,32 @@
 /*Font Style*/
 
+body {
+    background-color: lightgrey;
+}
 
 h1 h2 h3 {
     font-family: 'Anton', sans-serif;
+}
 
+h2 {
+    font-size: 38px;
+}
+
+h3 {
+    font-size: 28px;
 }
 
 p {
     font-family: 'Abel', sans-serif;
 }
 
+/*Circle Styling*/
+
+.circle-size {
+    height: 105px;
+    width: 105px;
+}
+
+.border-circle {
+    border: 7px solid white;
+}
