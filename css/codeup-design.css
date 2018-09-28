@@ -270,3 +270,7 @@ a {
 }
 
 
+.shadow-circle {
+    box-shadow: -10px 13px 20px rgba(0, 0, 0, 0.75);
+}
+
