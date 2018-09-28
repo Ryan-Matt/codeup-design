@@ -219,3 +219,9 @@ a {
 .man-img {
     height: 95%;
 }
+
+.hover a:hover {
+    color: rgb(0, 176, 173);
+    background: #000;
+}
+
