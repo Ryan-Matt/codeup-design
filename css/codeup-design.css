@@ -30,6 +30,10 @@ p {
     padding-top: 30px;
 }
 
+.mt-20 {
+    margin-top: 20px;
+}
+
 .cardcontainer {
     width: ;
 }
@@ -55,6 +59,16 @@ p {
     top: 30px;
 }
 
+/*google text move*/
+
+.leftmvgoogle {
+    left: 10px;
+}
+
+
+.leftmv {
+    left: 15px;
+}
 
 /*Small Circle Styling*/
 
