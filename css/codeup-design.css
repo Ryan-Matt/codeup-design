@@ -4,7 +4,7 @@ body {
     background-color: lightgrey;
 }
 
-h1 h2 h3 {
+h1 h2 h3 a {
     font-family: 'Anton', sans-serif;
 }
 
@@ -19,6 +19,72 @@ h3 {
 p {
     font-family: 'Abel', sans-serif;
 }
+
+/*Navigation Bar */
+
+
+.whitebar {
+    background-color: white;
+    height: 70px;
+    margin-top: 30px;
+    position: absolute;
+    width: 100%;
+}
+
+.wordposition {
+    position: relative;
+    top: -10px;
+}
+a {
+    color: black;
+}
+/*
+
+
+@media only screen and (max-width: 768px) {
+
+    .logo {
+        top: -25px;
+    }
+
+    .logoalign {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .smnavmove {
+        position: relative;
+        top: -50px;
+    }
+
+    .smtitlemove {
+        position: relative;
+        top: -30px;
+    }
+}
+
+
+@media only screen and (max-width: 768px) {
+    .flexcontainer{
+        flex-direction: column;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .logoalign {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .logo {
+        top: -75px;
+        float: left;
+    }
+}
+
+*/
 
 /*Featured and news feed*/
 
