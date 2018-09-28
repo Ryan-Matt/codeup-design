@@ -9,8 +9,14 @@ h1 h2 h3 a {
 }
 
 h2 {
-    font-size: 38px;
-    text-shadow: 2px 2px 5px rgb(0, 176, 173);
+  /*  font-size: 38px;
+    text-shadow: 2px 2px 5px rgb(0, 176, 173);  */
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+    font-size: 50px;
+    padding: 80px 50px;
+    text-align: center;
+    text-transform: uppercase;
+    text-rendering: optimizeLegibility;
 }
 
 h3 {
@@ -40,7 +46,7 @@ p {
 a {
     color: black;
 }
-/*
+/* Failed NAV attempts
 
 
 @media only screen and (max-width: 768px) {
@@ -233,6 +239,34 @@ a {
 .drip {
     color: #EEE;
     text-shadow: 4px 4px 1px #300000;
+}
+
+.elegantshadow {
+    color: black;
+    letter-spacing: .15em;
+    text-shadow:
+            1px -1px 0 #005561,
+            -1px 2px 1px #005964,
+            -2px 4px 1px #005D68,
+            -3px 6px 1px #00626B,
+            -4px 8px 1px #002120,
+            -5px 10px 1px #002929,
+            -6px 12px 1px #003231,
+            -7px 14px 1px #003A39,
+            -8px 16px 1px #004341,
+            -9px 18px 1px #004B4A,
+            -10px 20px 1px #005352,
+            -11px 22px 1px #005C5A,
+            -12px 24px 1px #006462,
+            -13px 26px 1px #006C6B,
+            -14px 28px 1px #007573,
+            -15px 30px 1px #007D7B,
+            -16px 32px 1px #008683,
+            -17px 34px 1px #008E8C,
+            -18px 36px 1px #009694,
+            -19px 38px 1px #009F9C,
+            -20px 40px 1px #00A7A4,
+            -21px 42px 1px #00B0AC;
 }
 
 
