@@ -10,10 +10,12 @@ h1 h2 h3 a {
 
 h2 {
     font-size: 38px;
+    text-shadow: 2px 2px 5px rgb(0, 176, 173);
 }
 
 h3 {
     font-size: 28px;
+    text-shadow: 2px 2px 5px rgb(0, 176, 173);
 }
 
 p {
@@ -226,11 +228,11 @@ a {
 }
 
 
-
 /* test stuff */
 
 .drip {
     color: #EEE;
     text-shadow: 4px 4px 1px #300000;
 }
+
 
